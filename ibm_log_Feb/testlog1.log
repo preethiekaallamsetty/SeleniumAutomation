@@ -1,0 +1,26 @@
+2023-02-27 16:00:11,679 [main] INFO NOP comm application module - ===========information==============
+2023-02-27 16:00:11,690 [main] WARN NOP comm application module - ===========information==============
+2023-02-27 16:00:11,690 [main] ERROR NOP comm application module - ===========information==============
+2023-02-27 16:00:11,691 [main] INFO NOP comm application module - launching a chrome browser
+2023-02-27 16:00:15,347 [main] INFO NOP comm application module - launching application url: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-02-27 16:00:17,536 [main] INFO NOP comm application module - Test case execuution in progress : verifyLoginWithValidCrednetails
+2023-02-27 16:00:17,543 [main] INFO NOP comm application module - before login application title: Your store. Login
+2023-02-27 16:00:17,545 [main] INFO NOP comm application module - clear the email
+2023-02-27 16:00:17,661 [main] INFO NOP comm application module - closing an application
+2023-02-27 16:00:59,302 [main] INFO NOP comm application module - ===========information==============
+2023-02-27 16:00:59,311 [main] WARN NOP comm application module - ===========information==============
+2023-02-27 16:00:59,312 [main] ERROR NOP comm application module - ===========information==============
+2023-02-27 16:00:59,312 [main] INFO NOP comm application module - launching a chrome browser
+2023-02-27 16:01:02,691 [main] INFO NOP comm application module - launching application url: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-02-27 16:01:03,972 [main] INFO NOP comm application module - Test case execuution in progress : verifyLoginWithValidCrednetails
+2023-02-27 16:01:04,003 [main] INFO NOP comm application module - before login application title: Your store. Login
+2023-02-27 16:01:04,003 [main] INFO NOP comm application module - clear the email
+2023-02-27 16:01:04,106 [main] INFO NOP comm application module - enter email: admin@yourstore.com
+2023-02-27 16:01:04,240 [main] INFO NOP comm application module - clear the password
+2023-02-27 16:01:04,344 [main] INFO NOP comm application module - enter password: admin
+2023-02-27 16:01:04,429 [main] INFO NOP comm application module - click on RememberMe checkbox
+2023-02-27 16:01:04,506 [main] INFO NOP comm application module - click on login button
+2023-02-27 16:01:08,548 [main] INFO NOP comm application module - after login application title: Dashboard / nopCommerce administration
+2023-02-27 16:01:08,549 [main] INFO NOP comm application module - click on logout button
+2023-02-27 16:01:10,258 [main] INFO NOP comm application module - after logout application title: Your store. Login
+2023-02-27 16:01:10,272 [main] INFO NOP comm application module - closing an application

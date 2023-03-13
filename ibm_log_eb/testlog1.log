@@ -1,0 +1,7 @@
+2023-02-27 15:52:30,204 [main] INFO NOP comm application module - ===========information==============
+2023-02-27 15:52:30,216 [main] WARN NOP comm application module - ===========information==============
+2023-02-27 15:52:30,216 [main] ERROR NOP comm application module - ===========information==============
+2023-02-27 15:52:30,216 [main] INFO NOP comm application module - launching a chrome browser
+2023-02-27 15:52:34,228 [main] INFO NOP comm application module - launching application url: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-02-27 15:52:36,205 [main] INFO NOP comm application module - Test case execuution in progress : verifyLoginWithValidCrednetails
+2023-02-27 15:52:36,220 [main] INFO NOP comm application module - closing an application
